@@ -278,6 +278,10 @@
     cursor: pointer;
 }
 
+.p-TabBar-toolbar .item .inActiveToggle {
+    color: var(--theia-ui-font-color3);
+}
+
 .p-TabBar-toolbar .item > div {
     height: 18px;
     width: 18px;
